@@ -1,0 +1,6 @@
+
+Foi inicialmente adicoonado a cada registo do dataset um campo id, com o objetivo de atribuir a cada contrato um id diferente
+1.2
+1 - 17943 contratos
+2 - 1399 contratos
+3 - 
